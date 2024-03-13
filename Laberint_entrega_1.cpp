@@ -15,11 +15,13 @@ void generarLaberint(int& posicioJugadorX, int& posicioJugadorY)
     //Amb aquest rand es genera una posició de sortida i de jugador aleatòries, tenint en compte els valors fixos dels límits de mapa.
 
     posicioJugadorX = rand() % FILES;
+    sleep_for(1s)
     posicioJugadorY = rand() % COLUMNES;
 
     do
     {
         posicioSortidaX = rand() % FILES;
+        sleep_for(1s)
         posicioSortidaY = rand() % COLUMNES;
 
         //Quan es verifiqui que les posicions cartesianes de jugador i sortida son correctes, es "randomitzarà" un laberint.
