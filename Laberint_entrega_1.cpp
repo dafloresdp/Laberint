@@ -25,6 +25,7 @@ void generarLaberint(int& posicioJugadorX, int& posicioJugadorY)
         //Quan es verifiqui que les posicions cartesianes de jugador i sortida son correctes, es "randomitzarà" un laberint.
     }
     while (posicioSortidaX == posicioJugadorX && posicioSortidaY == posicioJugadorY);
+    sleep_for(1s);
 }
 
 void mostrarLaberint(int& posicioJugadorX, int& posicioJugadorY)      //Generació de laberint amb bucles for que imprimiran cada línia.
