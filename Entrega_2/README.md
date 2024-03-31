@@ -6,4 +6,6 @@
           
 -Trampes en mode normal--> Pot ser que surti una trampa o no surtin. 
 
+
+
 **LOG 16/3/24**: Laberint 2 lliuramnet provisional.
