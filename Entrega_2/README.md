@@ -1,4 +1,4 @@
-**LOG 31/3/24**: BETA de Laberint 2.           Implementat God Mode. Disfruta decidint on poses tots els ítems, fins a les trampes! 
+**LOG 31/3/24**: BETA de Laberint 2.        Trampes. Compte no caiguis en elles! Implementat God Mode. Disfruta decidint on poses tots els ítems, fins a les trampes! 
          
 *Major bugs*: 
 
