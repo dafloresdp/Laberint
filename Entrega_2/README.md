@@ -2,9 +2,9 @@
          
 *Major bugs*: 
 
-   -Camí més curt sense funcionalitat--> El codi reconeix i calcula la distància més curta possible, però sense prendre accions una vegada es fa un moviment innecessari.
+  &emsp; -Camí més curt sense funcionalitat--> El codi reconeix i calcula la distància més curta possible, però sense prendre accions una vegada es fa un moviment innecessari.
           
-   -Trampes en mode normal--> Pot ser que surti una trampa o no surtin. 
+ &emsp; -Trampes en mode normal--> Pot ser que surti una trampa o no surtin. 
 
 
 
