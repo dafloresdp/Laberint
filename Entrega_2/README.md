@@ -4,7 +4,7 @@
 
   &emsp; -Camí més curt sense funcionalitat--> El codi reconeix i calcula la distància més curta possible, però sense prendre accions una vegada es fa &emsp; un  moviment innecessari.
           
- &emsp; -Trampes en mode normal--> Pot ser que surti una trampa o no surtin. 
+ &emsp; -(POSSIBLEMENT SOLUCIONAT) Trampes en mode normal--> Hi ha un 8% de probabilitat de que no surtin trampes.
 
 
 
