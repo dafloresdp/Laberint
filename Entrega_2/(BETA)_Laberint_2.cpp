@@ -59,6 +59,7 @@ void mostrarLaberint(int& posicioJugadorX, int& posicioJugadorY)  //Generació d
     }
     sleep_for(1s);
 }
+}
 
 bool movimentValid(int x, int y)   //Aquí es verifica el moviment vàlid. Si no no hi hauràn canvis.
 {
